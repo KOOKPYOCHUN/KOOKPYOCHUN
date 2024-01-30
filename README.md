@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=KOOKPYO_CHUN)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOKPYOCHUN&show_icons=true&theme=radical)
+
 ##### 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
@@ -11,7 +13,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-
+|**2021**| **영상처리를 활용한 행동 인식 긴급 상황 알림 시스템** | **졸업 논문** |
 
 ##### 🧩 Skill  
 
