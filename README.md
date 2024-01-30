@@ -1,16 +1,24 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=)
 
-<!--
-**KOOKPYOCHUN/KOOKPYOCHUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KOOKPYO_CHUN
 
-Here are some ideas to get you started:
+##### 🏢 Career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | ------- | 
+| **2023.01 -** | **Novitec 입사** | **기술지원 파트** |
+| **2015.03 - 2022.03** | **목원대학교 졸업** | **AI로봇융합학 전공** |
+
+##### 🏆 Project  
+
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+
+
+##### 🧩 Skill  
+
+ [Python](Pandas, Numpy, Matplotlib)
+
+##### 📜 Certificate
+
+ITQ 한글/파워포인트 A/B급 
