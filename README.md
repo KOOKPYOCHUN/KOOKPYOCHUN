@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=KOOKPYO_CHUN)
-# O_C
+# (O_C)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOKPYOCHUN&show_icons=true&theme=radical)
 
@@ -18,6 +19,7 @@
 
 ##### 🧩 Skill  
 
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
  [Python](Pandas, Numpy, Matplotlib)
 
 ##### 📜 Certificate
