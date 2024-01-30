@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=)
-
-# KOOKPYO_CHUN
+![header](https://capsule-render.vercel.app/api?type=waving&text=KOOKPYO_CHUN)
 
 ##### 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2023.01 -** | **Novitec 입사** | **기술지원 파트** |
+| **2023.01 -** | **Novitec 입사** | **기술지원** |
 | **2015.03 - 2022.03** | **목원대학교 졸업** | **AI로봇융합학 전공** |
 
 ##### 🏆 Project  
