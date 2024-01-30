@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=KOOKPYO_CHUN)
+# O_C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOKPYOCHUN&show_icons=true&theme=radical)
 
