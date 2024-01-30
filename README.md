@@ -18,11 +18,17 @@
 |**2021**| **영상처리를 활용한 행동 인식 긴급 상황 알림 시스템** | **졸업 논문** |
 
 ##### 🧩 Skill  
+
 #### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
 #### IDE
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
+
+#### TOOLS
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+
+
 
 ##### 📜 Certificate
 
