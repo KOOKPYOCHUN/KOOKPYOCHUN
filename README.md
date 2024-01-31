@@ -34,4 +34,4 @@
 
 ##### 📜 Certificate
 
-<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=White">/<img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white"> 
+<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=White"> <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white"> 
