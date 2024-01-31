@@ -34,4 +34,4 @@
 
 ##### 📜 Certificate
 
-ITQ 한글/파워포인트 A/B급 
+<img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=White">/<img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white"> 
